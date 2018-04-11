@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Droid+Sans');
+@import url('http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css');
+
+
+@import url('components/head.css');
+@import url('components/menu.css');
+
+h1,h2,h3,h4,h5,p,a{
+    /* font-family: 'Oswald', sans-serif; */
+    font-family: 'Droid Sans', sans-serif;
+}
+
+input[type=text]{
+    font-size: 14px;
+    font-family: 'Droid Sans', sans-serif;
+}
